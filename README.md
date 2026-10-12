@@ -265,11 +265,11 @@ open_to:
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   &nbsp;
-  <a href="https://github.com/bishal2623">
+  <a href="https://github.com/bishal2624">
     <img src="https://img.shields.io/badge/GitHub-0f0f23?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   &nbsp;
-  <a href="https://github.com/bishal2623">
+  <a href="https://github.com/bishal2624">
     <img src="https://img.shields.io/badge/Portfolio-6d28d9?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
 </p>
