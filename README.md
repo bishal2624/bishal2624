@@ -1,4 +1,4 @@
- <p align="center">
+<p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6d28d9,50:4f46e5,100:7c3aed&height=200&section=header&text=Bishal%20Saha&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=B.Tech%20PCU%20%E2%80%A2%20BS%20IIT%20Jodhpur%20%E2%80%A2%20Software%20Engineering%20%7C%20AI%2FML%20%7C%20Full%20Stack&descSize=15&descAlignY=60&animation=fadeIn" alt="Bishal Saha profile banner" width="100%" />
 </p>
 
@@ -22,15 +22,15 @@
   <a href="https://www.linkedin.com/in/bishal-saha-iitj/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" />
   </a>
-  <a href="https://github.com/bishal2623">
-    <img src="https://img.shields.io/badge/GitHub-bishal2623-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile" />
+  <a href="https://github.com/bishal2624">
+    <img src="https://img.shields.io/badge/GitHub-bishal2624-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=bishal2623&style=flat-square&color=6d28d9&label=Profile+Views" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/bishal2623?style=flat-square&color=4f46e5&label=Followers" alt="GitHub followers" />
-  <img src="https://img.shields.io/github/stars/bishal2623?style=flat-square&color=7c3aed&label=Stars" alt="GitHub stars" />
+  <img src="https://komarev.com/ghpvc/?username=bishal2624&style=flat-square&color=6d28d9&label=Profile+Views" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/bishal2624?style=flat-square&color=4f46e5&label=Followers" alt="GitHub followers" />
+  <img src="https://img.shields.io/github/stars/bishal2624?style=flat-square&color=7c3aed&label=Stars" alt="GitHub stars" />
 </p>
 
 ---
@@ -45,10 +45,10 @@ I'm currently strengthening my skills in backend engineering, REST API developme
 
 ### What I'm Looking For
 
-- Software Development Engineering (SDE) internships
-- AI/ML internships and research opportunities
-- Open-source contributions and collaboration
-- Hackathons and collaborative engineering projects
+* Software Development Engineering (SDE) internships
+* AI/ML internships and research opportunities
+* Open-source contributions and collaboration
+* Hackathons and collaborative engineering projects
 
 ---
 
@@ -78,16 +78,16 @@ I'm currently strengthening my skills in backend engineering, REST API developme
 
 ## AI / ML Learning Areas
 
-| Domain | Technologies and Concepts |
-|---|---|
-| Data Extraction | BeautifulSoup, Selenium, data cleaning and extraction workflows |
-| Machine Learning | Supervised and unsupervised learning, feature engineering, scikit-learn |
-| Natural Language Processing | Text classification, embeddings and semantic search |
-| LLM Applications | Prompt engineering, model APIs and tool-use workflows |
-| Deep Learning | Neural network fundamentals and PyTorch |
-| Backend Engineering | FastAPI, PostgreSQL, SQLAlchemy, Alembic and JWT authentication |
-| Data Pipelines | ETL concepts, structured storage and ORM-based persistence |
-| RAG and Agentic AI | Retrieval-augmented generation, MCP concepts and tool integration |
+| Domain                      | Technologies and Concepts                                               |
+| --------------------------- | ----------------------------------------------------------------------- |
+| Data Extraction             | BeautifulSoup, Selenium, data cleaning and extraction workflows         |
+| Machine Learning            | Supervised and unsupervised learning, feature engineering, scikit-learn |
+| Natural Language Processing | Text classification, embeddings and semantic search                     |
+| LLM Applications            | Prompt engineering, model APIs and tool-use workflows                   |
+| Deep Learning               | Neural network fundamentals and PyTorch                                 |
+| Backend Engineering         | FastAPI, PostgreSQL, SQLAlchemy, Alembic and JWT authentication         |
+| Data Pipelines              | ETL concepts, structured storage and ORM-based persistence              |
+| RAG and Agentic AI          | Retrieval-augmented generation, MCP concepts and tool integration       |
 
 ---
 
@@ -127,13 +127,13 @@ Designed and developed event landing pages for Techfest, IIT Bombay, with a focu
 
 ## Achievements and Experience
 
-| Area | Description |
-|---|---|
-| IIT Bombay Techfest | Landing-page design and development for the 2025 and 2026 editions |
-| Claude Code Community | Participation in a Claude Code meetup and Anthropic Impact Lab activities |
+| Area                   | Description                                                                                                |
+| ---------------------- | ---------------------------------------------------------------------------------------------------------- |
+| IIT Bombay Techfest    | Landing-page design and development for the 2025 and 2026 editions                                         |
+| Claude Code Community  | Participation in a Claude Code meetup and Anthropic Impact Lab activities                                  |
 | Full-Stack Development | Experience building applications integrating APIs, authentication, data collection and frontend interfaces |
-| AI/ML Learning | Structured self-directed learning across mathematics, machine learning, deep learning and LLM applications |
-| End-to-End Engineering | Hands-on work across database design, backend APIs and frontend integration |
+| AI/ML Learning         | Structured self-directed learning across mathematics, machine learning, deep learning and LLM applications |
+| End-to-End Engineering | Hands-on work across database design, backend APIs and frontend integration                                |
 
 ---
 
@@ -165,16 +165,16 @@ Designed and developed event landing pages for Techfest, IIT Bombay, with a focu
 ## Coding Profiles
 
 <p align="center">
-  <a href="https://leetcode.com/bishal2623">
+  <a href="https://leetcode.com/bishal2624">
     <img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode profile" />
   </a>
-  <a href="https://www.geeksforgeeks.org/user/bishal2623/">
+  <a href="https://www.geeksforgeeks.org/user/bishal2624/">
     <img src="https://img.shields.io/badge/GeeksforGeeks-Profile-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks profile" />
   </a>
-  <a href="https://www.hackerrank.com/bishal2623">
+  <a href="https://www.hackerrank.com/bishal2624">
     <img src="https://img.shields.io/badge/HackerRank-Profile-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black" alt="HackerRank profile" />
   </a>
-  <a href="https://www.codechef.com/users/bishal2623">
+  <a href="https://www.codechef.com/users/bishal2624">
     <img src="https://img.shields.io/badge/CodeChef-Profile-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef profile" />
   </a>
 </p>
@@ -184,12 +184,12 @@ Designed and developed event landing pages for Techfest, IIT Bombay, with a focu
 ## GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bishal2623&show_icons=true&theme=tokyonight&bg_color=0d0b1e&border_color=6d28d9&title_color=8b5cf6&icon_color=7c3aed&text_color=c4b5fd&rank_icon=github&hide_border=false&custom_title=Bishal%27s%20GitHub%20Stats" height="180" alt="GitHub statistics" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bishal2623&theme=tokyonight&background=0d0b1e&border=6d28d9&ring=8b5cf6&fire=7c3aed&currStreakLabel=c4b5fd&sideLabels=c4b5fd&currStreakNum=ffffff&sideNums=ffffff&dates=6d6a8a" height="180" alt="GitHub contribution streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=bishal2624&show_icons=true&theme=tokyonight&bg_color=0d0b1e&border_color=6d28d9&title_color=8b5cf6&icon_color=7c3aed&text_color=c4b5fd&rank_icon=github&hide_border=false&custom_title=Bishal%27s%20GitHub%20Stats" height="180" alt="GitHub statistics" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bishal2624&theme=tokyonight&background=0d0b1e&border=6d28d9&ring=8b5cf6&fire=7c3aed&currStreakLabel=c4b5fd&sideLabels=c4b5fd&currStreakNum=ffffff&sideNums=ffffff&dates=6d6a8a" height="180" alt="GitHub contribution streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bishal2623&theme=tokyonight&bg_color=0d0b1e&border_color=6d28d9&title_color=8b5cf6&text_color=c4b5fd&layout=compact&langs_count=8&hide_border=false&custom_title=Most%20Used%20Languages" height="165" alt="Most used programming languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bishal2624&theme=tokyonight&bg_color=0d0b1e&border_color=6d28d9&title_color=8b5cf6&text_color=c4b5fd&layout=compact&langs_count=8&hide_border=false&custom_title=Most%20Used%20Languages" height="165" alt="Most used programming languages" />
 </p>
 
 ---
@@ -197,7 +197,7 @@ Designed and developed event landing pages for Techfest, IIT Bombay, with a focu
 ## GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=bishal2623&theme=tokyonight&no-frame=true&row=1&column=6" alt="GitHub profile trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=bishal2624&theme=tokyonight&no-frame=true&row=1&column=6" alt="GitHub profile trophies" />
 </p>
 
 ---
@@ -205,16 +205,16 @@ Designed and developed event landing pages for Techfest, IIT Bombay, with a focu
 ## Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bishal2623&bg_color=0d0b1e&color=8b5cf6&line=6d28d9&point=7c3aed&area=true&hide_border=false&custom_title=Contribution%20Graph%20%E2%80%94%20Bishal%20Saha" alt="GitHub contribution activity graph" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bishal2624&bg_color=0d0b1e&color=8b5cf6&line=6d28d9&point=7c3aed&area=true&hide_border=false&custom_title=Contribution%20Graph%20%E2%80%94%20Bishal%20Saha" alt="GitHub contribution activity graph" width="100%" />
 </p>
 
 ### 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/bishal2623/bishal2623/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution snake animation" width="100%" />
+  <img src="https://raw.githubusercontent.com/bishal2624/bishal2624/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution snake animation" width="100%" />
 </p>
 
-> The contribution snake requires a GitHub Actions workflow that generates and publishes the SVG to the `output` branch.
+> **Note:** The contribution snake requires a GitHub Actions workflow that generates the SVG and publishes it to the `output` branch. If the image doesn't load, verify that the workflow is configured and has run successfully.
 
 ---
 
@@ -253,7 +253,7 @@ open_to:
   <a href="https://www.linkedin.com/in/bishal-saha-iitj/">
     <img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://github.com/bishal2623">
+  <a href="https://github.com/bishal2624">
     <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </p>
